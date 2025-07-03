@@ -1,6 +1,10 @@
+import Header from "@/components/header/page"
 
 export default function Home() {
   return (
-    <div className="bg-background text-foreground flex justify-center"></div>
+    <div>
+      <Header/>
+    </div>
+    
   )
 }
