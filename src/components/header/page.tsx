@@ -21,14 +21,6 @@ export default function Header(){
                 <Link href='about'>About</Link>
         </div>
      </div>
-     <div>
-        <Link href={"register"} className="mr-2 font-bold">
-        Sign Up
-        </Link>
-          <Link href={"login"} className="font-bold">
-        LogIn
-        </Link>
-     </div>
      </div>
      
     )
