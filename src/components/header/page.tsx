@@ -9,7 +9,7 @@ export default function Header(){
 
      }
      >
-        <h1 className="font-bold">Splashnext</h1>
+        <h1 className="font-bold">Splash-next</h1>
         <div className="grow">
         <div 
         className="flex items-center justify-center gap-6 md:gap-8"
